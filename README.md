@@ -8,7 +8,7 @@ All tasks are stored in the browser using LocalStorage, so the data remains even
 
 This project is designed as a minor project to demonstrate core front-end concepts such as DOM manipulation, event handling, and browser storage.
 
-🚀 Features
+Features
 
 Add tasks using button click or Enter key
 
@@ -40,7 +40,7 @@ Theme preference saved using LocalStorage
 
 Responsive and user-friendly UI
 
-🛠️ Technologies Used
+ Technologies Used
 
 HTML – Structure of the application
 
